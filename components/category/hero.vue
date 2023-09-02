@@ -6,8 +6,8 @@
           Categories
         </h1>
         <p>
-          Blow All the topics are listed on which either I have written a blog or will write a blog
-          in near future.
+          Listed below are all the topics which either I have written a blog or will write a blog
+          in the near future.
         </p>
       </div>
       <div class="px-6 justify-self-center">

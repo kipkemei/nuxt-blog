@@ -1,18 +1,17 @@
 <template>
   <div>
     <p class="text-black text-base font-semibold">
-      Connect With Me
+      Hit Me Up
     </p>
     <p>
-      I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you
-      have an interesting idea, either open source or paid let's connect.
+      I know a few things about design and implementation of backend applications in Golang, Elixir and Python. Hit me up if you have an interesting idea.
     </p>
 
     <a
-      href="mailto: alasadnurriyad4@gmail.com"
+      href="mailto: sangdennis9@gmail.com"
       class="block text-center w-full bg-sky-700 p-2 rounded-lg text-white mt-3 text-sm"
     >
-      Sent Mail
+      Send Mail
     </a>
   </div>
 </template>

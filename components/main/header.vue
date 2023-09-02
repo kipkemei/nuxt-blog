@@ -10,7 +10,7 @@ const path = computed(() => route.fullPath.replace('/', ''))
       <ul class="flex items-baseline space-x-5">
         <li class="text-lg sm:text-2xl font-bold">
           <NuxtLink to="/" :class="{ underline: path === '' }">
-            Riyad's Blog
+            Sang Dennis
           </NuxtLink>
         </li>
       </ul>

@@ -6,7 +6,7 @@
           Welcome To My Blog Site
         </h1>
         <p>
-          Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles,
+          Get API Design, API Security, Golang and System Design, Related Articles,
           Tips, Learning resources and more.
         </p>
       </div>

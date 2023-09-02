@@ -19,7 +19,7 @@
 ## Preview
 
 <p align="center">
-  <a href="https://blog.nurriyad.xyz" target="_blank">
+  <a href="https://sangdennis.com" target="_blank">
     <img width="1090" src="./assets/images/preview1.png">
     <img width="1090" src="./assets/images/preview2.png">
     <img width="1090" src="./assets/images/preview3.png">
@@ -33,7 +33,7 @@
 
 ## Demo
 
-https://blog.nurriyad.xyz
+https://sangdennis.com
 
 > Hosted on [Vercel](https://vercel.com/): `npm run build`
 

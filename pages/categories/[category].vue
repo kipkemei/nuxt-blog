@@ -39,10 +39,10 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: `You will find all the ${category.value} related post here`,
+      content: `You will find all the ${category.value} related posts here`,
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Sang Dennis - %s',
 })
 </script>
 

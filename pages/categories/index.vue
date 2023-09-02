@@ -2,20 +2,14 @@
 import { makeFirstCharUpper } from '@/utils/helper'
 
 const topics = [
-  'javascript',
-  'typescript',
-  'git',
+  'golang',
+  'Elixir',
+  'API Design',
+  'API Security',
   'docker',
   'kubernetes',
-  'vue',
-  'nuxt',
-  'pinia',
-  'vuex',
-  'firebase',
-  'supabse',
-  'cypress',
-  'vercel',
-  'namecheap',
+  'Design Patterns',
+  'System Design',
 ]
 
 useHead({
@@ -24,10 +18,10 @@ useHead({
     {
       name: 'description',
       content:
-        'Blow All the topics are listed on which either I have written a blog or will write a blog in near future.',
+        'Listed below are all the topics which either I have written a blog post about or will write about in the near future.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Sang Dennis - %s',
 })
 </script>
 
