@@ -1,14 +1,17 @@
 # Personal Blog Site
 
-### Built with
+## Built with
 
 <p align="center">
     <img width="200" src="./assets/images/logo.png">
 </p>
 
- Nuxt Blog built with [Nuxt3](https://nuxt.com), [Nuxt-Content2](https://content.nuxtjs.org/blog/announcing-v2/), [Vue3](https://vuejs.org) & [TailwindCss](https://tailwindcss.com/)
+ Nuxt Blog built with: - [Nuxt3](https://nuxt.com)
+                       - [Nuxt-Content2](https://content.nuxtjs.org/blog/announcing-v2/)
+                       - [Vue3](https://vuejs.org) & [TailwindCss](https://tailwindcss.com/)
 
 ## Features
+
 - Write blog with markdown file
 - Auto generate category from blog post
 - Blog list page with search and pagination
@@ -33,13 +36,13 @@
 
 ## Demo
 
-https://sangdennis.com
+<https://sangdennis.com>
 
 > Hosted on [Vercel](https://vercel.com/): `npm run build`
 
 ## Build Setup
 
-**Requires Node.js 16+**
+## Requires Node.js 16+
 
 ```bash
 # install dependencies
