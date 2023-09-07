@@ -38,7 +38,7 @@
 
 <https://sangdennis.com>
 
-> Hosted on [Vercel](https://vercel.com/): `npm run build`
+> Hosted on [Netlify](https://netlify.com/)
 
 ## Build Setup
 
