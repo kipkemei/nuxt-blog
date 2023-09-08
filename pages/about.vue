@@ -58,10 +58,10 @@
           </div>
         </div>
         <h3 class="text-base sm:text-3xl font-semibold pb-7 sm:pb-12">
-          Software Engineer, Problem Solver, Critical Thinker.
+          Software Engineer, Problem Solver.
         </h3>
 
-        <p>Hello, fellow human! I'm a software engineer and I spends most of my time solving business problems using system design and code. You might also find me learning 'new' things, experimenting and sharing what I know.</p>
+        <p>Hello, fellow human! I'm a software engineer and I spend most of my time solving business problems using system design and code. You might also find me learning 'new' things, experimenting and sharing what I know.</p>
       </div>
       <div class="hidden sm:block col-span-3">
         <NuxtImg
