@@ -2,7 +2,7 @@
 const description
   = 'Sang Dennis, a Software Engineer with over 5 years experience in Software Development.'
 const ogTitle
-  = 'Sang\'s writes and helps others write Golang, Elixir and Python. Also knowledgeable and skilled in Application Security, Distributed Systems and Systems Design'
+  = 'Sang writes and helps others write Golang, Elixir and Python. Also knowledgeable and skilled in Application Security, Distributed Systems and Systems Design'
 const twitterDescription
   = 'My blog website, where I play around with Golang, System Design, and more and showcase my blog, resources, etc'
 const image
