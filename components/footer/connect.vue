@@ -4,7 +4,7 @@
       Hit Me Up
     </p>
     <p>
-      I know a few things about design and implementation of backend applications in Golang, Elixir and Python. Hit me up if you have an interesting idea and you are willing to pay for my skills and time.
+      I know a few things about design and implementation of backend applications in Golang, Elixir and Python. Hit me up if you have an interesting idea and you are willing and able to pay for my skills and time.
     </p>
 
     <a
