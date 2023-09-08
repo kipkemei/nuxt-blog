@@ -4,8 +4,7 @@
       About This Site
     </p>
     <p class="py-2">
-      This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. 
-      Thank you Al Asad Nur Riyad!
+      This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon and Markdown.
     </p>
   </div>
 </template>
